@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glos-frontend/static/css/main.70753107.css",
-    "main.js": "/glos-frontend/static/js/main.06b8f8e4.js",
+    "main.js": "/glos-frontend/static/js/main.4b1a5c7c.js",
     "static/media/bootstrap-icons.woff?": "/glos-frontend/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
     "static/media/bootstrap-icons.woff2?": "/glos-frontend/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
     "static/media/offer-img.svg": "/glos-frontend/static/media/offer-img.1968f1ab2073081cab2c5183fda026c6.svg",
@@ -9,10 +9,10 @@
     "static/media/download-file.svg": "/glos-frontend/static/media/download-file.db4cfe3cc2b42b2845bfd0525d71c12d.svg",
     "index.html": "/glos-frontend/index.html",
     "main.70753107.css.map": "/glos-frontend/static/css/main.70753107.css.map",
-    "main.06b8f8e4.js.map": "/glos-frontend/static/js/main.06b8f8e4.js.map"
+    "main.4b1a5c7c.js.map": "/glos-frontend/static/js/main.4b1a5c7c.js.map"
   },
   "entrypoints": [
     "static/css/main.70753107.css",
-    "static/js/main.06b8f8e4.js"
+    "static/js/main.4b1a5c7c.js"
   ]
 }
